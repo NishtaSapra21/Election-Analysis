@@ -1,4 +1,4 @@
-# Election-Analysis
+# Election Audit Analysis
 
 ## __Purpose of Election Audit__
 
@@ -44,7 +44,7 @@ Raymon Anthony Doane got 11,606 votes which is 3.1% of total votes.
 
 __*Winner__
 
-![Winner](/Resources/ElectionResults_Winner.png?raw=true "Winner")
+![Winner](/Resources/Electionresults_Winner.png?raw=true "Winner")
 
 From the result analysis, it is clear that the winner is Diana DeGette with highest number of votes 272,892. She won the election by getting 73.8% of total votes cast. 
 
@@ -62,4 +62,4 @@ election analysis.
 Also, updated script with new code lines can be used with large election data like “National  Election”. With little more or definitely more coding we can get simple analysis of election like total 
 states and their candidates, candidates and their votes, their parties; parties , their reprentatives, votes etc. Here nested dictionary concept of Python can be useful to get desire outputs. 
 
-This script is also useful for election audits of non government bodies like HOAs, local organizations etc. with few additions and modifications to code. 
+This script is also useful for election audits of non government bodies like HOAs, sports cllubs etc. with few additions and modifications to code. 
