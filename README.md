@@ -62,4 +62,4 @@ election analysis.
 Also, updated script with new code lines can be used with large election data like “National  Election”. With little more or definitely more coding we can get simple analysis of election like total 
 states and their candidates, candidates and their votes, their parties; parties , their reprentatives, votes etc. Here nested dictionary concept of Python can be useful to get desire outputs. 
 
-This script is also useful for election audits of non government bodies like HOAs, sports cllubs etc. with few additions and modifications to code. 
+This script is also useful for election audits of non government bodies like HOAs, sports clubs etc. with few additions and modifications to code. 
