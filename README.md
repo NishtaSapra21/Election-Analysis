@@ -19,7 +19,9 @@ __*County View__
 ![County View](/Resources/ElectionResults_CountyView.png?raw=true "County View")
 
 Jefferson county have cast 38,855 votes, 10.5% of total votes.
+
 Denver county have cast 306,055 votes, 82.8% of total votes.
+
 Arapahoe county have cast 24,801 votes, 6.7% of total votes.
 
 __*Largest County Turnout__
@@ -32,9 +34,12 @@ __*Candidate View__
 
 ![Candidate View](/Resources/ElectionResults_CandidateView.png?raw=true "Candidate View")
 
-There are three candidates: Charles Casper Stockham, Diana DeGette, Raymon Anthony Doane.  
+There are three candidates: Charles Casper Stockham, Diana DeGette, Raymon Anthony Doane.
+
 Charles Casper Stockham got 85,213 votes which is 23.0% of total votes
+
 Diana DeGette got 272,892 votes which is 73.8% of total votes.
+
 Raymon Anthony Doane got 11,606 votes which is 3.1% of total votes.
 
 __*Winner__
