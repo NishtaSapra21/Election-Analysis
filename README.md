@@ -8,13 +8,13 @@ the percentage of votes for each candidate, winner of the election with number o
 
 ## __Election Audit Results__
 
-__*Total Votes__
+* __Total Votes__
 
 The total number of votes cast in this congressional election were 369,711.
 
 ![Total Votes](/Resources/ElectionResults_TotalVotes.png?raw=true "Total Votes")
 
-__*County View__
+* __County View__
 
 ![County View](/Resources/ElectionResults_CountyView.png?raw=true "County View")
 
@@ -24,13 +24,13 @@ Denver county have cast 306,055 votes, 82.8% of total votes.
 
 Arapahoe county have cast 24,801 votes, 6.7% of total votes.
 
-__*Largest County Turnout__
+* __Largest County Turnout__
 
 ![Largest County](/Resources/ElectionResults_LargestCounty.png?raw=true "Largest County")
 
 Denver county have cast the largest number of votes, 306,055.
 
-__*Candidate View__
+* __Candidate View__
 
 ![Candidate View](/Resources/ElectionResults_CandidateView.png?raw=true "Candidate View")
 
@@ -42,7 +42,7 @@ Diana DeGette got 272,892 votes which is 73.8% of total votes.
 
 Raymon Anthony Doane got 11,606 votes which is 3.1% of total votes.
 
-__*Winner__
+* __Winner__
 
 ![Winner](/Resources/Electionresults_Winner.png?raw=true "Winner")
 
